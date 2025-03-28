@@ -2,7 +2,7 @@ import json
 import requests
 import time
 
-API_KEY = "vTTe0Q8nt1QCwW4qwORQcCDJuxiJCvK9wxKWUMecH9xnya6j9tZCgcZ84hvuiSZqlR99J1Sd96atyYTJccXacK"
+API_KEY = ""
 BASE_URL = "https://api.ataix.kz"
 
 def get_request(endpoint):
